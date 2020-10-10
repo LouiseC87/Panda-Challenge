@@ -3,8 +3,8 @@
 ### Welcome to the *Class Respository* for Data Analysis and Visualization
 
 * Units
-    * 01-Excel
-    * 02-VBA Scripting
+    * 01-Excel 🧐
+    * 02-VBA Scripting 🏁
     * 03-Python
     * 04-Pandas
     * 05-Matplotlib
